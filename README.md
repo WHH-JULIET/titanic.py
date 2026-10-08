@@ -50,14 +50,6 @@ The Titanic dataset contains demographic and travel information of passengers. T
 
 ---
 
-## 📈 Visualization
-
-A scatter plot compares actual survival outcomes with predicted outcomes.
-
-![Actual vs Predicted](assets/titanic_actual_vs_predicted.png) <!-- Add this image manually if desired -->
-
----
-
 ## 🧪 Example: New Passenger Prediction
 
 The script includes an example prediction for a new passenger with the following features:
